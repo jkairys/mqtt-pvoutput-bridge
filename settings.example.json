@@ -1,0 +1,8 @@
+{
+  "api_key": "MY_API_KEY",
+  "system_id": 123456,
+  "min_upload_interval": 300,
+  "mqtt_server": "10.0.0.1",
+  "mqtt_port": 1883,
+  "mqtt_topic": "inverter"
+}
